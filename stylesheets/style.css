@@ -1,0 +1,123 @@
+/* line 1, ../sass/_base.scss */
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* line 8, ../sass/_base.scss */
+header {
+  background-image: url("../images/tete.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 1019px;
+}
+
+/* line 17, ../sass/_base.scss */
+#container {
+  margin-left: 200px;
+  width: 960px;
+}
+
+/* line 1, ../sass/_menu.scss */
+#menu {
+  padding-top: 30px;
+}
+/* line 4, ../sass/_menu.scss */
+#menu ul {
+  text-align: left;
+  padding-left: 0px;
+}
+/* line 9, ../sass/_menu.scss */
+#menu ul li {
+  display: inline;
+  color: #FFF;
+  font-size: 20px;
+  margin-right: 58px;
+  font-family: gill sans;
+}
+
+/* line 1, ../sass/_content.scss */
+#texte {
+  color: white;
+  margin-top: 200px;
+  width: 400px;
+}
+
+/* line 8, ../sass/_content.scss */
+h1 {
+  font-size: 40px;
+  font-family: gill sans;
+}
+
+/* line 13, ../sass/_content.scss */
+#containerbody {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+}
+
+/* line 22, ../sass/_content.scss */
+#texte1 {
+  color: #FFF;
+  display: inline-block;
+  width: 420px;
+  font-size: 30px;
+  line-height: 50px;
+  font-family: gill sans;
+}
+
+/* line 31, ../sass/_content.scss */
+#texte2 {
+  display: inline-block;
+  width: 480px;
+  padding-left: 20px;
+  line-height: 30px;
+  font-family: gill sans;
+}
+/* line 38, ../sass/_content.scss */
+#texte2 p {
+  color: #000;
+}
+/* line 41, ../sass/_content.scss */
+#texte2 h2 {
+  font-size: 24px;
+  color: #FFF;
+}
+
+/* line 1, ../sass/_footer.scss */
+footer {
+  margin-top: 200px;
+  margin-right: auto;
+  height: 400px;
+  background: #e77673;
+  color: white;
+  font-family: gill sans;
+  line-height: 32px;
+  font-size: 13px;
+}
+/* line 12, ../sass/_footer.scss */
+footer ul {
+  list-style: none;
+}
+
+/* line 20, ../sass/_footer.scss */
+#wrap {
+  width: 960px;
+  margin-left: 15%;
+}
+
+/* line 27, ../sass/_footer.scss */
+.bloc {
+  padding-left: 0px;
+  margin-top: 40px;
+  margin-right: 65px;
+  display: inline-block;
+  vertical-align: top;
+}
+/* line 34, ../sass/_footer.scss */
+.bloc ul {
+  padding-left: 0px;
+}

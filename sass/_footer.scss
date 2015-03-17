@@ -1,0 +1,39 @@
+footer{
+
+	margin-top:200px;
+	margin-right:auto;
+	height:400px;
+	background:#e77673;
+	color:white;
+	font-family:$font;
+	line-height:32px;
+	font-size:13px;
+
+	ul {
+	list-style:none;
+	
+	}
+}
+
+
+
+#wrap {
+	width:960px;
+	margin-left:15%;
+}
+
+
+
+.bloc {
+	padding-left:0px;
+	margin-top:40px;
+	margin-right:65px;
+	display:inline-block;
+	vertical-align:top;
+	
+	ul{
+
+	padding-left:0px;
+}
+
+}

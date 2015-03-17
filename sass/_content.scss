@@ -1,0 +1,46 @@
+#texte{
+	color:white;
+	margin-top:200px;
+	width:400px;
+
+}
+
+ h1 {
+	font-size:40px;
+	font-family: $font;
+}
+
+#containerbody{
+	width:960px;
+
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:200px;
+	
+	
+}
+#texte1 {
+	color: $color;
+	display:inline-block;
+	width:420px;
+	font-size:30px;
+	line-height:50px;
+	font-family: $font;
+}
+
+#texte2{
+	display:inline-block;
+	width:480px;
+	
+	padding-left:20px;
+	line-height: 30px;
+	font-family: $font;
+	p {
+		color:#000;
+	}
+	h2{
+		font-size:24px;
+		color: $color;
+	}
+
+}
